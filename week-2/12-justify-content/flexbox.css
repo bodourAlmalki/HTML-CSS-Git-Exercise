@@ -6,4 +6,26 @@
   padding: 0.5em;
 }
 
-/* Add your own CSS code below */
+.countries--first{
+ width: 63%;
+ justify-content: flex-end;
+
+}
+.countries--second{
+
+width:63%;
+
+}
+
+.countries--second >li {
+  justify-content: space-around;
+  margin: auto ;
+  padding: 20px;
+
+
+}
+.countries--third{
+  
+  flex-direction: column;
+}
+
