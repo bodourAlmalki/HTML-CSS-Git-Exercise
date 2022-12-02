@@ -25,7 +25,14 @@ width:63%;
 
 }
 .countries--third{
-  
+  width:63%;
   flex-direction: column;
+  justify-content: end;
 }
 
+.countries--fourth{
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    width: 63%;
+
+}
